@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<ResultsDirectory>.\tests</ResultsDirectory>
+	<Playwright>
+		<BrowserName>firefox</BrowserName>
+		<LaunchOptions>
+			<Headless>false</Headless>
+			<Channel>firefox</Channel>
+			<SloMo>500</SloMo>
+			<RecordVideoDir>video/</RecordVideoDir>
+			<RecordVideoSize></RecordVideoSize>
+		</LaunchOptions>
+	</Playwright>
+</RunSettings>
